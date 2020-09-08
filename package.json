@@ -3,6 +3,7 @@
   "version": "0.0.1-1",
   "description": "A collection of SCSS mixins avaliable throughout the app",
   "main": "./index.scss",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
